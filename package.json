@@ -6,7 +6,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "0.9.x",
-    "homepage": "https://haofangzhou.github.io/react-02/index.html"
+    "homepage": "https://haofangzhou.github.io/react-02/build"
   },
   "devDependencies": {},
   "scripts": {
